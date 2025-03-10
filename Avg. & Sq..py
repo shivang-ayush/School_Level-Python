@@ -1,0 +1,7 @@
+a= input('enter the first number')
+a=int(a)
+b= input('enter the second number')
+b=int(b)
+print((a+b)/2)
+print('The square of the 1st given number is', a*a)
+print('The square of the 2nd given number is', b*b)
